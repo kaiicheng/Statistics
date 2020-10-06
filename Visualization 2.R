@@ -24,7 +24,7 @@ pie(class, main="Pie chart of pills",
     col=c("red","blue","green"))
 
 # Bar plot
-barplot(class, ylim=c(0,25),main=“Bar plot of pills")
+barplot(class, ylim=c(0,25),main="Bar plot of pills")
 
 # Better bar plot
 barplot(c(12,24,15,22),names.arg = c("A","B","C","D"),col = c("yellow","green","blue","red"))
